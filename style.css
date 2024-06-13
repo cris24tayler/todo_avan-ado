@@ -1,0 +1,8 @@
+/*geral*/
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: Helvetica;
+    color: #333;
+    box-sizing: border-box;
+}
